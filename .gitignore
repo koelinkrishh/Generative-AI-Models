@@ -24,6 +24,11 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+Diffusion/data/*.safetensors
+*.pt
+*.ckpt
+*.safetensors
+
 
 # Installer logs
 pip-log.txt
