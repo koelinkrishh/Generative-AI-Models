@@ -29,6 +29,9 @@ Diffusion/data/*.safetensors
 *.ckpt
 *.safetensors
 
+Llama/llama-2-7b
+
+
 
 # Installer logs
 pip-log.txt
